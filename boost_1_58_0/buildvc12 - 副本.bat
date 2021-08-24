@@ -1,1 +1,1 @@
-bjam --toolset=msvc-12.0 --build-type=complete --stagedir=stage address-model=32 --with-atomic
+bjam --toolset=msvc-12.0 --build-type=complete --stagedir=stage address-model=64 --with-random

@@ -1,7 +1,0 @@
-
-"bin.v2\libs\thread\build\msvc-12.0\release\threading-multi\win32\thread.obj" 
-"bin.v2\libs\thread\build\msvc-12.0\release\threading-multi\win32\tss_dll.obj" 
-"bin.v2\libs\thread\build\msvc-12.0\release\threading-multi\win32\tss_pe.obj" 
-"bin.v2\libs\thread\build\msvc-12.0\release\threading-multi\future.obj" 
-"bin.v2\libs\system\build\msvc-12.0\release\threading-multi\boost_system-vc120-mt-1_58.lib" 
-"bin.v2\libs\chrono\build\msvc-12.0\release\threading-multi\boost_chrono-vc120-mt-1_58.lib"    
